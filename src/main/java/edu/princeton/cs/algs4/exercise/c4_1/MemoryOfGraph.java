@@ -20,9 +20,8 @@ package edu.princeton.cs.algs4.exercise.c4_1;
  *
  *************************************************************************/
 
-import edu.princeton.cs.algs4.Graph;
-import edu.princeton.cs.algs4.StdOut;
-import edu.princeton.cs.algs4.StdRandom;
+import com.javamex.classmexer.MemoryUtil;
+import edu.princeton.cs.algs4.*;
 
 public class MemoryOfGraph {
 

@@ -69,5 +69,17 @@
 		</profile>
 	</profiles>
 	<dependencies>
-	</dependencies>  
+		<dependency>
+			<groupId>gov.nist.math</groupId>
+			<artifactId>jama</artifactId>
+			<version>1.0.3</version>
+		</dependency>
+		<dependency>
+			<groupId>classmexer</groupId>
+			<artifactId>classmexer</artifactId>
+			<version>0.3</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/src/main/resources/lib/classmexer.jar</systemPath>
+		</dependency>
+	</dependencies>
 </project>
