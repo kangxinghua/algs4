@@ -34,5 +34,5 @@ jobs:
       uses: actions/upload-artifact@v4.4.3
       with:
           name: algs4-1.0.0.0.jar
-          path: algs4-1.0.0.0.jar
+          path: target\algs4-1.0.0.0.jar
           
